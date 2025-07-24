@@ -1,0 +1,33 @@
+# My Portfolio Website
+
+This is a simple portfolio website consisting of three files:  
+- `index.html` — The main homepage showcasing an introduction and projects  
+- `contact.html` — A contact page with a basic contact form  
+- `style.css` — CSS styles shared across both pages
+
+## Features
+
+- Clean and responsive layout  
+- Navigation menu linking between Home and Contact pages  
+- Simple contact form with name, email, and message fields (form does not have backend functionality)  
+- Basic styling for easy customization
+
+## How to Use
+
+1. Clone or download this repository  
+2. Open `index.html` in your web browser to view the portfolio homepage  
+3. Use the navigation links to visit the Contact page  
+
+## Customize
+
+- Update `index.html` to add your own projects and introduction  
+- Modify `contact.html` to customize the contact form or integrate with a backend service  
+- Edit `style.css` to change colors, fonts, or layout styles
+
+## License
+
+This project is open source and free to use.
+
+---
+
+Feel free to reach out if you want to contribute or have suggestions!
