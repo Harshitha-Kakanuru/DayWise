@@ -1,0 +1,55 @@
+# Java Programming Practice Tasks
+
+This repository contains simple Java programs (Tasks 1–17) that demonstrate fundamental concepts such as user input, loops, if-else, switch statements, arrays, enums, and basic operations.
+
+## Contents
+
+Each numbered task below has its own Java class. The repository includes:
+
+1. Age check (above 18)
+2. Multiplication table with for loop
+3. Character, string, and boolean input example
+4. Simple banking operations using switch-case
+5. Accept and display age, height, weight with data types
+6. Declare and initialize student info variables
+7. Arithmetic, relational & logical operations on two numbers
+8. Greeting message using first and last name
+9. Reverse a sentence using `StringBuilder`
+10. Count specific character frequency in a string
+11. Display the current date in DD-MM-YYYY format
+12. Print if a number is positive, negative, or zero
+13. Accept marks and display grade using if-else
+14. Simple calculator using switch-case
+15. Print first N even numbers using a loop
+16. Accept 5 numbers into an array and display their average
+17. Enum for days of the week with day-based messages
+
+## Sample Usage
+
+Each program is self-contained and demonstrates a specific programming concept. You can compile and run each `.java` file individually.
+
+Example:
+javac MultiplicationTable.java
+java MultiplicationTable
+
+
+## How to Use
+
+- Clone or download this repository.
+- Open each `.java` file in your favorite IDE or editor.
+- Compile and run the desired program.
+- Input values requested in the terminal/command-line as shown in the sample inputs.
+
+## Customization and Learning
+
+- Try changing the code to experiment with new logic or features.
+- Use this as a starting point for your own Java learning or classroom exercises.
+
+## License
+
+This repository is open source and free to use for educational purposes.
+
+---
+
+Happy Coding!
+
