@@ -1,0 +1,71 @@
+# Java Banking Application
+
+This repository contains a simple Java banking application demonstrating core OOP principles including interfaces, abstract classes, inheritance, and composition.
+
+## Overview
+
+The program implements the following:
+
+- `BankOperations` interface defining basic banking operations.
+- `Account` abstract class implementing common account fields and methods.
+- `SavingsAccount` and `CurrentAccount` classes extending `Account` and implementing banking operations.
+- `Customer` class representing the account holder.
+- `BankBranch` class representing bank branch details.
+- A `Main` class to create instances of these classes and demonstrate deposit and withdrawal operations.
+
+## Features
+
+- Depositing and withdrawing money for savings and current accounts.
+- Tracking account balance.
+- Associating customers with accounts.
+- Associating accounts with a bank branch.
+
+## How to Run
+
+1. Save the complete Java program in a file named `BankApp.java`.
+2. Open terminal/command prompt and navigate to the directory containing `BankApp.java`.
+3. Compile the program:
+
+    ```
+    javac BankApp.java
+    ```
+
+4. Run the compiled program:
+
+    ```
+    java BankApp
+    ```
+
+5. The program outputs account details and balances after sample deposit and withdrawal operations.
+
+## Sample Output
+Bank Branch: City Center (BNK001)
+Savings Account Details:
+Customer: Alice
+Account Number: SA1001
+Balance: 800.0
+
+Current Account Details:
+Customer: Bob
+Account Number: CA2001
+Balance: 1500.0
+
+
+## Learning Points
+
+- Interface implementation for flexible operation contracts.
+- Abstract classes for shared code and design.
+- Inheritance for account specialization.
+- Object composition to model relationships like customer and bank branch.
+- Basic console output demonstrating program results.
+
+## License
+
+This project is open source and available for educational use.
+
+---
+
+Feel free to modify and expand the code to include additional banking features or user interaction.
+
+Happy coding!
+
